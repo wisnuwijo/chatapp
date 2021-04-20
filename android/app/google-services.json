@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294353050747",
+    "project_id": "dygdaya-chat",
+    "storage_bucket": "dygdaya-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294353050747:android:7531bd307b616f70c396de",
+        "android_client_info": {
+          "package_name": "com.dygdaya.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294353050747-eu2ahs0cach7v5c322kesh14raob3in0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgPuvK63w9DdmWF_K3-_0YjQ-rJNqeQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294353050747-eu2ahs0cach7v5c322kesh14raob3in0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
